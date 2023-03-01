@@ -10,3 +10,6 @@ Tersisa kelas SivitasAkademik sebagai komposit terhadap kelas Dosen dan Mahasisw
 
 Isi dari program main.py yang telah saya buat adalah untuk menampilkan data list mahasiswa dan dosen
 yang bisa di set terlebih dahulu di main
+
+Saya Muhammad Febriansyah Firdaus mengerjakan Latihan 4 dalam mata kuliah
+DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
