@@ -2,7 +2,7 @@ from prodi import Prodi
 # Kelas Course sebagai child dari kelas Prodi
 class Course(Prodi) :
     #access modifier private
-    __nama_matakuliah ="";
+    __nama_matakuliah =""; #nama_matakuliah isinya sama dengan course jadi saya bingung di bagian situ untuk menentukan kelasnya sebagai komposit atau pewarisan
 
     # constructor
     def __init__(self, nama_matakuliah = ""):
